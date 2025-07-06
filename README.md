@@ -18,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
 </div>
 
 ###
